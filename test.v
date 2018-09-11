@@ -1,1 +1,1 @@
-here is just an empty test file
+consule.log('hello');
